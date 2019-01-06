@@ -1,7 +1,7 @@
 ---
 title: 'First Blog Post'
 date: 2019-01-06
-permalink: /posts/2019/01/06/First Blog Post/
+permalink: /posts/2019/01/06/First-Blog-Post/
 tags:
   - Site
   - Update
