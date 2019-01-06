@@ -10,7 +10,7 @@ redirect_from:
 
 **Welcome to this site**
 
-Hello web traveler, and welcome.
+Hello web traveler.
 
 This site is simply a place to keep track of my software projects as well as an archive for solutions to problems be it software or hardware.
 
