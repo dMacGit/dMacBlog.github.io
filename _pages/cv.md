@@ -27,9 +27,9 @@ Technical Skills
 
 Current Projects
 ======
-* Media Grabber application
-* Media Scraper/Agrigator
-* Twitch Requester
+* [Media Grabber application](https://github.com/dMacGit/Media_Grabber): _Django, Python, linux_
+* [Media Scraper/Aggregator](https://github.com/dMacGit/Media_Scraper): _Django, Python_
+* [Twitch Requester](https://github.com/dMacGit/Twitch_Requester): _Python_
 
 Education
 ======
