@@ -25,10 +25,21 @@ Technical Skills
 * Android
 * Linux
 
+Current Projects
+======
+* Media Grabber application
+* Media Scraper/Agrigator
+* Twitch Requester
+
 Education
 ======
 * Intro to Computer Science and Programming using Python, MITx 6.00.1x, Edx.org, 2017
-* Postgraduate Diploma in Engineering, AUT, 2013
+* Postgraduate Diploma in Engineering, AUT, 2012 - 2013
+* Bachelors of Engineering Technology. Majoring in Computer Systems Engineering. 2007 - 2011
 
-  
+Work Experience
+======
 
+* Engineer at Buisness Technology Group. 2018 - Present
+* Dispatch at Buisness Technology Group. 2016 - 2018
+* Data Entry at Cooper And Company. 2013 - 2014
