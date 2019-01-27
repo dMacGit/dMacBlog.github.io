@@ -29,6 +29,18 @@ You can use PIP to simply install.
 $ pip install --user virtualenv
 ```
 
+Once installed, you can create a virtual environment for/in a particular directiory
+```
+$ virtualenv /path/to/your/virtual/evn/
+```
+Now you can activate the environment.
+
+```
+$ source /path/to/venv/bin/activate
+```
+Note the ```/bin/activate```, this is the script to enter the environment.
+
+
 There are also a couple of additional tools wich makes this process even easier.
 
 
