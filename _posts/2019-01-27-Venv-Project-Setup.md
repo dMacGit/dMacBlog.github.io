@@ -9,6 +9,8 @@ tags:
   - Virtual Environment
   - Venv
   - Virtualenvwrapper
+  - Linux
+  - Pip
 ---
 
 ## Virtaulize your Environment ##
