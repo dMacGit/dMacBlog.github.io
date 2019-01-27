@@ -24,12 +24,14 @@ This is the concept of keeping your projects seperate, and contained, while hold
 
 *Note: All commands here are for installing and setting up in linux*
 
-### Installing Venv ###
+### Installing Virtual Environment ###
 
-You can use PIP to simply install.
+You can use PIP to install.
 ```
 $ pip install --user virtualenv
 ```
+
+### Using Virtual Environment ###
 
 Once installed, you can create a virtual environment for/in a particular directiory
 ```
@@ -41,8 +43,14 @@ Now you can activate the environment.
 $ source /path/to/venv/bin/activate
 ```
 Note the ```/bin/activate```, this is the script to enter the environment.
+Once in the environment (or venv) you can do whatever you like to it, without breaking your global environemnt.
+Install Python, Django packages etcetera, etcetera.
 
+To exit the environment, use the ``` $ deactivate ``` command
 
+And thats it. Simple, fast, yet powerfull.
+
+###
 There are also a couple of additional tools wich makes this process even easier.
 
 
