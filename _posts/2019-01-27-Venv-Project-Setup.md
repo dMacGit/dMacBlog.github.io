@@ -50,7 +50,26 @@ To exit the environment, use the ``` $ deactivate ``` command
 
 And thats it. Simple, fast, yet powerfull.
 
-###
-There are also a couple of additional tools wich makes this process even easier.
+### Time for Venv Wrapper ###
+
+There is one additional tool wich makes creating and using venv's even easier. Virtualenvwrapper.
+
+This takes venv's to the next level, where you can hop in and out of multiple venv's with ease.
+
+Using Pip you can install with:
+
+``` $ pip install virtualenvwrapper ```
+
+Then we need to do some initial configuration before we can use it.
+
+You will want to add the command ``` source /usr/local/bin/virtualenvwrapper.sh ``` to your shell startup file, changing the path to ```virtualenvwrapper.sh``` depending on where it was installed by pip or your package manager.
+
+``` 
+$ export WORKON_HOME=~/Envs
+$ mkdir -p $WORKON_HOME
+$ source /usr/local/bin/virtualenvwrapper.sh
+``` 
+
+
 
 
