@@ -25,10 +25,9 @@ This is to idea around, keeping your projects seperate, and contained, holding a
 ### Installing Venv ###
 
 You can use PIP to simply install.
-
-{% highlight python %}
+```
 $ pip install --user virtualenv
-{% endhighlight%}
+```
 
 There are also a couple of additional tools wich makes this process even easier.
 
