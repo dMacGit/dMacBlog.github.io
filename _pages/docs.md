@@ -2,6 +2,8 @@
 title: "Usefull Docs"
 permalink: /docs/
 author_profile: true
+redirect_from: 
+  - /docs.html
 ---
 
 {% include base_path %}
