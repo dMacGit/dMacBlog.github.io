@@ -70,6 +70,45 @@ $ mkdir -p $WORKON_HOME
 $ source /usr/local/bin/virtualenvwrapper.sh
 ``` 
 
+#### Creating your First Venv ####
+
+There are only a few commands you need to get familiar with in order to craete and maintain your virtual environments.
+
+To get started run the ``` $ workon ``` command.
+This will list all environments. Since you have non, this will be empty.
+
+In order to creat your first venv, simply run ``` $ mkvirtualenv yourEnvName ```.
+Now when you run ``` $ workon ``` your venv will be returned in the list.
+
+To switch to a particular venv you simply run ``` $ workon yourEnvName ```
+
+By default this will also **Activate** that venv.
+You can **Activate** or **Deactivate** your venv at will, by simply using ``` $ activate ``` or ``` $ deactivate ```.
+You can tell if you are in an active venv from the shell or command line.
+
+For example:
+
+```
+(emgee_core) phantom@Phantom-PC:/
+```
+
+Here its is showing that I am in an active **emgee_core** venv.
+
+The next step is to link your venv with your project home folder.
+Before we do this, it would be good to deactivate from any activated venv.
+
+Next simply navagate to your project home folder ``` $ cd /home/myProjectdir/  ```
+
+Once in the project home, activate the venv for that project, then set the projectdir with ``` $ setvirtualenvproject ```:
+
+```
+$ workon yourEnvName
+$ setvirtualenvproject
+```
+
+The ``` $ setvirtualenvproject ``` command will set the current working directory as the project home folder for the venv.
+
+You can switch from the venv home folder to the prject folder with the command ``` cdproject ```
 
 
 
