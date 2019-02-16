@@ -70,7 +70,7 @@ $ mkdir -p $WORKON_HOME
 $ source /usr/local/bin/virtualenvwrapper.sh
 ``` 
 
-#### Creating your First Venv ####
+### Creating your First Venv ###
 
 There are only a few commands you need to get familiar with in order to craete and maintain your virtual environments.
 
