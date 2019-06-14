@@ -21,7 +21,7 @@ In order to change the desktop and lock screen backgrounds, one easy method is t
 
 Open the tweaks tool, and go into the appearance menu.
 
-![Tweaks Lock screen settings](/assets/images/posts/2019-06-14-tweaks01.png)
+![Tweaks Lock screen settings](/assets/images/2019-06-14-tweaks01.png)
 
 Here you can change both the Desktop, and Lock screen backgrounds.
 Simply select your desired image in each selector box, and your done.
@@ -37,7 +37,7 @@ For Ubuntu Disco dingo and up (19.04 etc) open up the following in the editor of
 
 Scroll to the following lines
 
-![gdm3.css editing](/assets/images/posts/2019-06-14-gdm3css01.png)
+![gdm3.css editing](/assets/images/2019-06-14-gdm3css01.png)
 
 Add the following changes:
 
