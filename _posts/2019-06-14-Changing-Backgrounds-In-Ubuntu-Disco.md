@@ -1,6 +1,6 @@
 ---
 title: 'Changing Backgrounds In Ubuntu Disco'
-date: 2019-01-27
+date: 2019-06-14
 permalink: /posts/2019/06/14/Changing-Backgrounds-In-Ubuntu-Disco/
 
 
