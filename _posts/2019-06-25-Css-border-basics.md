@@ -17,7 +17,7 @@ _Here are some basics border examples for html elements._
 
 ## H1 Heading with solid line border:
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="dmacgit" data-slug-hash="orevyo" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Basic Border Heading #1">
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="dmacgit" data-slug-hash="orevyo" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Basic Border Heading #1">
   <span>See the Pen <a href="https://codepen.io/dmacgit/pen/orevyo/">
   Basic Border Heading #1</a> by D (<a href="https://codepen.io/dmacgit">@dmacgit</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -26,7 +26,7 @@ _Here are some basics border examples for html elements._
 
 ## H2 Heading with dotted line border:
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="dmacgit" data-slug-hash="bPrbOP" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Basic Border Heading #2">
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="dmacgit" data-slug-hash="bPrbOP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Basic Border Heading #2">
   <span>See the Pen <a href="https://codepen.io/dmacgit/pen/bPrbOP/">
   Basic Border Heading #2</a> by D (<a href="https://codepen.io/dmacgit">@dmacgit</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
